@@ -6,15 +6,11 @@
  ---
   ###### Контактная информация
   
+  GitHub: <https://github.com/duboiskayaolga>
 
   Mobile: +375293028143
 
-
   e-mail: <Olga_d_93@mail.ru>
-
-
-  GitHub: <https://github.com/duboiskayaolga>
-
 
 ---
   ###### О себе
