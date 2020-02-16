@@ -1,5 +1,1 @@
-# rsschool-cv
-Tasks from rsschool
-
-
-duboiskayaolga/rsschool-cv
+https://github.com/duboiskayaolga.io/rsschool-cv
