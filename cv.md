@@ -1,7 +1,7 @@
 # Ольга Дубойская
 
 
-![На этом месте должна быть фотография](file:///D:/kourses%20Front-end/+EPAM/ProfileFoto.jpg)
+![На этом месте должна быть фотография](http://icons.iconarchive.com/icons/iconsmind/outline/256/Profile-icon.png)
 ---
   Контактная информация
   _____________________
