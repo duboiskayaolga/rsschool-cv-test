@@ -38,9 +38,11 @@
 ---
   ###### Курсы
   
-  1.  Курсы frontend-разработки (JavaScript, React) (MyFreedom).
+  1.  Пре-курс frontend-разработки (MyFreedom).
   
-  2.  Курс "Рзаработка веб-приложений на языке JavaScript" (ПВТ).
+  2.  Курсы frontend-разработки (JavaScript, React) (MyFreedom).
+  
+  3.  Курс "Рзаработка веб-приложений на языке JavaScript" (ПВТ).
 
 ---
   ###### Английский язык
